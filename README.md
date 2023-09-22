@@ -16,6 +16,13 @@ Duplicate Sequences: 重複するシーケンスの数とその発生頻度を�
 Overrepresented sequences: データセット内で過剰に繰り返されるシーケンスと、それが関連する可能性のある既知の配列を示します。
 Kmer Content: シーケンス内の特定のKmerの出現を示すプロット。これは、特定の配列が過剰に表現されているか、または一部の位置で変動しているかを特定するのに役立つ場合があります。
 
+RNA-seq and data analysis
+Total RNA from each cartilage specimen was extracted using RNeasy Mini Kit (Qiagen) according to the manufacturer's protocols.
+RNA integrity was assessed using an Agilent Technologies 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA, USA) and samples with an RNA Integrity Number (RIN) value > 5.0 were used for subsequent analysis. 
+Total RNA-seq libraries were generated using a TruSeq Stranded Total RNA Sample Prep Kit (Illumina, San Diego, CA, USA) following the manufacturer’s protocol. 
+Library pools and clusters were generated on cBot and sequenced using a Novaseq 6000 Sequencing System (Illumina), yielding 2,500 reads with 2 × 100 base pair (bp) read lengths.
+
+
 
 # Bulk RNA isolation
 For bulk RNA isolation, segments were transferred to RNAlater (Qiagen) for 1 h at 4°C before removing the RNAlater and freezing samples at −80°C. Segment samples were cryo-pulverized (59012 N, Biospec) and gently resuspended in TriFast™ (VWR), mixed with 1-bromo-3-chloropropane (Sigma Aldrich) and incubated for 10 min. Centrifugation was performed for 10 min at 10.000×g and the top aqueous phase was further collected for RNA isolation using the RNeasy Mini Kit (Qiagen) according to the manufactures’ instructions. Purity of the RNA was analyzed via Nanodrop; RNA integrity and quality were verified via Agilent 2,100 Bioanalyzer or Fragment Analyzer (RNA-sequencing).
