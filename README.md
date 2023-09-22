@@ -1,5 +1,23 @@
 # rna-seq_analysis
 
+##全体の流れ
+
+1. 品質管理（Quality Control (QC)）<br>
+
+
+
+参照ゲノムへのマッピング(Reference genome mapping)：
+
+遺伝子発現の定量化(Quantification)：
+
+発現変動遺伝子解析(Differential expression analysis)：
+
+機能アノテーション(Functional annotation)：
+
+
+
+### RNA extraction
+Total RNA was extracted from articular cartilage using a Qiagen RNeasy Mini Kit according to the manufacturer's protocols.
 
 
 
