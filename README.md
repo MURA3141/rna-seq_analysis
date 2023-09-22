@@ -1,8 +1,14 @@
 # rna-seq_analysis
 
-##全体の流れ
+## 全体の流れ
 
-1. 品質管理（Quality Control (QC)）<br>
+### 1. 品質管理（Quality Control (QC)）<br>
+シーケンシングリードの品質をチェック
+
+低品質のリードを除去、リードをトリミング
+
+FastQCダウンロード先
+https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 
 
