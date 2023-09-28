@@ -20,7 +20,10 @@ https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 機能アノテーション(Functional annotation)：
 
-
+GO解析
+Gene Ontology Consortium (http://www.geneontology.org/) は、標準化された用語によって生物学的現象を記述することを目的とした機能情報に関するデータベース
+GO Termは大きく３つのサブカテゴリ（Biological Process , Cellular Component , Molecular Function）で表現
+エンリッチメント解析を行うとき、発現変動遺伝子のみに着目した一般的なエンリッチメント解析と、発現変動遺伝子だけでなく遺伝子全体に着目した Gene Set Enrichment Analysis (GSEA) とよばれる解析方法
 
 ### RNA extraction
 Total RNA was extracted from articular cartilage using a Qiagen RNeasy Mini Kit according to the manufacturer's protocols.
